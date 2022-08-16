@@ -3,12 +3,7 @@
 > Flink：1.13
 >
 > 基于https://nightlies.apache.org/flink/flink-docs-release-1.13/docs/connectors/table/filesystem/ 的翻译及理解过程。
->
-> Author：周佳豪
->
-> Version：1.0.0
->
-> Date：2022-08-16
+
 
 
 
