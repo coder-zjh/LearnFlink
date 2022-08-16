@@ -250,7 +250,7 @@ public class HourPartTimeExtractor implements PartitionTimeExtractor {
 
 分区提交策略定义了分区提交后要执行的动作。
 
-- **metastore**：**只有hive表支持此策略**。
+- **metastore**：**刷新hive表元数据，只有hive表支持此策略**。
 - success 文件：会在对应的分区文件夹下写一个空文件，文件名为_success。
 - 自定义策略
 
